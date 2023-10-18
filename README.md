@@ -1,7 +1,7 @@
 # Animal Farm
 
 A sample Express application written in Node.js for a Github README post.
-Using during S110/2023-2 UC. - Carlos Rogerio
+Using during S110/2023-2 UC. - Carlos Rogerio - 18 Out 23
 
 ##  Prerequisites
 
