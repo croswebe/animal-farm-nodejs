@@ -40,4 +40,4 @@ jobs:
           push: true
           tags: |
             #jamtur01/animal-farm-nodejs:latest
-            croswebe/tests1102023/animal-farm-nodejs:latest
+            croswebe/tests1102023:latest
